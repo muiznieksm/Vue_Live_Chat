@@ -54,7 +54,7 @@ router.push({name: "Chatroom"})
   margin: 20px 0 10px;
 }
 .welcome input {
-  width: 100%;
+  width: fit-content;
   padding: 10px;
   border-radius: 20px;
   border: 1px solid #eee;
