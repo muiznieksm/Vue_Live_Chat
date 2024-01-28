@@ -24,7 +24,5 @@ This live chat application provides a real-time communication platform. It allow
 - **Logout**: Users can log out of the application.
 
 ## Preview
-<video controls width="1000">
-    <source src="Preview.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<img src="Preview.gif" alt="Preview" width="500">
+
