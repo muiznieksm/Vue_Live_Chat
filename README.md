@@ -9,7 +9,7 @@ This live chat application provides a real-time communication platform. It allow
 - **Firebase**: A comprehensive app development platform by Google. [Firebase Documentation](https://firebase.google.com/)
 - **JavaScript**: The programming language used to create dynamic and interactive web content. [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - **CSS**: For styling the web application. [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- **This Live Chat application is [hosted](vue-blog-abe6a.web.app) using firebase.**
+- **This Live Chat application is [hosted](https://vue-blog-abe6a.web.app/) using firebase.**
 
 ## Setup
 1. Clone the repository to your local machine.
